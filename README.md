@@ -54,13 +54,16 @@ https://github.com/mannv/phpunit_production/settings/installations
 cài đặt Servers Jenkins (GitHub plugin) để có thay đổi gì từ github nó sẽ bắn 1 event tới jenkin và thực hiện quá trình deploy tự động
 
 Cấu hình 2 project, vui lòng xem thư mục đi kèm
-https://github.com/mannv/jenkins/tree/master/capistrano
-https://github.com/mannv/jenkins/tree/master/phpunit
+
+[capistrano](https://github.com/mannv/jenkins/tree/master/capistrano)
+
+[phpunit](https://github.com/mannv/jenkins/tree/master/phpunit)
 
 để push notification đến slack
 Jenkins: cần phải cài plugin
 Slack Notification Plugin (chọn phiên bản 1.8.1 - setup đỡ lằng ngoằng)
-https://github.com/mannv/jenkins/tree/master/plugin
+
+[phpunit](https://github.com/mannv/jenkins/tree/master/plugin)
 
 Slack
 vào:  https://my.slack.com/services/new/jenkins-ci
