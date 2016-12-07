@@ -55,15 +55,17 @@ cài đặt Servers Jenkins (GitHub plugin) để có thay đổi gì từ githu
 
 Cấu hình 2 project, vui lòng xem thư mục đi kèm
 
-[capistrano](https://github.com/mannv/jenkins/tree/master/capistrano)
+[phpunit](https://raw.githubusercontent.com/mannv/jenkins/master/phpunit/screenshot.png)
 
-[phpunit](https://github.com/mannv/jenkins/tree/master/phpunit)
+[capistrano](https://raw.githubusercontent.com/mannv/jenkins/master/capistrano/screenshot.png)
 
 để push notification đến slack
 Jenkins: cần phải cài plugin
 Slack Notification Plugin (chọn phiên bản 1.8.1 - setup đỡ lằng ngoằng)
 
-[phpunit](https://github.com/mannv/jenkins/tree/master/plugin)
+[Slack Notification Plugin](https://github.com/mannv/jenkins/tree/master/plugin)
+
+[Screenshot - config](https://raw.githubusercontent.com/mannv/jenkins/master/plugin/screenshot.png)
 
 Slack
 vào:  https://my.slack.com/services/new/jenkins-ci
